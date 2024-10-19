@@ -1,7 +1,12 @@
-# Tetris-Cpp
+# Tetris in C++
 
-Based on this [tutorial](https://www.youtube.com/watch?v=wVYKG_ch4yMhttps://www.youtube.com/watch?v=wVYKG_ch4yM) with 'some' modifications.
+Based on this [tutorial](https://www.youtube.com/watch?v=wVYKG_ch4yM) with 'some' modifications.
 Just for learning.
 .exe run file located in /build
 
-> Open with terminal and `make` to automately make clean and build
+#Building from source
+1. Clone the repository
+```
+git clone https://github.com/Chikamiri/Smol-Project.git
+```
+...

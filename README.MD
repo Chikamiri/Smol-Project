@@ -5,8 +5,9 @@ Just for learning.
 .exe run file located in /build
 
 #Building from source
-1. Clone the repository
 ```
 git clone https://github.com/Chikamiri/Smol-Project.git
+cd Smol-Project
+make --make-file=build/Makefile
+cd build
 ```
-...

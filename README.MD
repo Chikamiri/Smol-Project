@@ -10,6 +10,6 @@ Just for learning.
 ```
 git clone https://github.com/Chikamiri/Smol-Project.git
 cd Smol-Project
-make --make-file=build/Makefile
+make --makefile=build/Makefile
 cd build
 ```
